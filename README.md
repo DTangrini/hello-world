@@ -1,2 +1,3 @@
 # hello-world
-for Exercise 3
+
+I like long walks on the beach
